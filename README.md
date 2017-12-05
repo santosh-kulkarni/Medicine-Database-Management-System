@@ -1,1 +1,0 @@
-# Medicine-Database-Management-System
