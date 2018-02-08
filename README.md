@@ -8,7 +8,7 @@
   1. create a database with username "root" and password "1234"
 # Creating Tables
   1. Create the tables as Shown in the schema Picture Above
-  2. Name of that picture : schema.png
+  2. Name of that picture : schema.jpg
 # Execution
   1. Run the apache server
   2. go to your Web browser and type :- "localhost/DBProject/Log_In.php"
